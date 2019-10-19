@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.satu {
+    font-size: 60px;
+}
+
+.dua {
+    font-size: 80px;
+}
+
+.tiga {
+    font-size: 40px;
+}
+
+.empat {
+    font-size: 40px;
+}
+
+.lima {
+    font-size: 30px;
+}
+
+.enam {
+    font-size: 60px;
+}
+
+.kun {
+    font-size: 15px;
+    float: right;
+}
